@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_text_padding">8dp</dimen>
+
+    <dimen name="h1">28sp</dimen>
+    <dimen name="h2">22sp</dimen>
+
+    <dimen name="base_line_height">3dp</dimen>
+</resources>
